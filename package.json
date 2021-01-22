@@ -14,6 +14,10 @@
     "art-template": "^4.13.2",
     "koa": "^2.13.0",
     "koa-art-template": "^1.1.1",
-    "koa-router": "^10.0.0"
+    "koa-logger": "^3.2.1",
+    "koa-onerror": "^4.1.0",
+    "koa-router": "^10.0.0",
+    "koa-static": "^5.0.0",
+    "mongodb": "^3.6.3"
   }
 }
